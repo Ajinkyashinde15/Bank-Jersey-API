@@ -9,12 +9,12 @@ The Web API will allow the customer to create an account with the bank (example:
 
 We will be developing the project using Jersey to develop a RESTFul Web API that will seamlessly expose data from the database which our Client will leverage and do http calls like GET, POST and DELETE and provide online banking functionality.
 
-![ERD Diagram](http://url/to/img.png)
+![ERD Diagram](https://github.com/Ajinkyashinde15/Bank-Jersey-API/blob/master/erd.png)
 
-![JSON](http://url/to/img.png)
+![JSON](https://github.com/Ajinkyashinde15/Bank-Jersey-API/blob/master/2.png)
 
-![JSON](http://url/to/img.png)
+![JSON](https://github.com/Ajinkyashinde15/Bank-Jersey-API/blob/master/1.png)
 
-![Check Balance](http://url/to/img.png)
+![Check Balance](https://github.com/Ajinkyashinde15/Bank-Jersey-API/blob/master/checkbal.png)
 
-![Create Account](http://url/to/img.png)
+![Create Account](https://github.com/Ajinkyashinde15/Bank-Jersey-API/blob/master/crateacc.png)
